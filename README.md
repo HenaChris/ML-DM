@@ -8,3 +8,4 @@
 *2. 协同过滤电影推荐 。 *
 + 数据集为[movies.txt]，[ratings.txt]
 + 代码为：https://github.com/HenaChris/ML-DM/blob/master/p2_CFU%26knn.py
++参考链接：https://blog.csdn.net/qq_40587575/article/details/81331717
