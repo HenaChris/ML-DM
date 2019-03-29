@@ -11,3 +11,6 @@
 + 数据集：[movies.txt]，[ratings.txt]
 + 代码为：https://github.com/HenaChris/ML-DM/blob/master/p2_CFU%26knn.py
 + 参考链接：https://blog.csdn.net/qq_40587575/article/details/81331717
+
+**3.基于主成分分析的手写数字识别**
++ 任务：
