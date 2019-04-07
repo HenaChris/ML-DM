@@ -15,7 +15,8 @@
 **3.kmeans改进算法：kmeans++**
 + 任务：优化kmeans算法，初始聚类中心的选择
 + 数据集：随机模拟法产生数据
-+ 代码为：
-+ 参考链接：https://blog.csdn.net/google19890102/article/details/53284285
++ 代码为：https://github.com/HenaChris/ML-DM/blob/master/kmeans%2B%2B.ipynb
++ 参考链接：https://blog.csdn.net/google19890102/article/details/53284285；
+
 **4.基于主成分分析的手写数字识别**
 + 任务：
