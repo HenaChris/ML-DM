@@ -98,7 +98,7 @@ plt.plot(mu)
 plt.show()                     
 ~~~
 
-![mu_Figure_1](D:\研一下\data mining\作业\作业4\mu_Figure_1.png)
+![mu_Figure_1](https://github.com/HenaChris/-/blob/master/mu_Figure_1.png?raw=true)
 
 <center>    图1  股票收益率均值
 
@@ -114,7 +114,7 @@ plt.plot(v[:,0:1])
 plt.show()
 ~~~
 
-![v1_Figure_2](D:\研一下\data mining\作业\作业4\v1_Figure_2.png)
+![v1_Figure_2](https://github.com/HenaChris/-/blob/master/v1_Figure_2.png?raw=true)
 
 <center>图2  第一个特征向量
 
@@ -151,7 +151,7 @@ plt.plot(v[:,0:1])
 plt.show()
 ~~~
 
-![v2_Figure_3](D:\研一下\data mining\作业\作业4\v2_Figure_3.png)
+![v2_Figure_3](https://github.com/HenaChris/-/blob/master/v2_Figure_3.png?raw=true)
 
 <center>  图3  第二个特征向量
 
@@ -192,7 +192,7 @@ output:
 
 
 
-![1554888951552](D:\研一下\data mining\作业\作业4\hs300.png)
+![1554888951552](https://github.com/HenaChris/-/blob/master/hs300.png?raw=true)
 
 <center> 图4 hs300月k线图
 
@@ -203,7 +203,7 @@ plt.plot(mu2)
 plt.show()
 ~~~
 
-![mu_2Figure_1](D:\研一下\data mining\作业\作业4\mu_2Figure_1.png)
+![mu_2Figure_1](https://github.com/HenaChris/-/blob/master/mu_2Figure_1.png?raw=true)
 
 <center>图5   每日收益率均值
 
@@ -212,7 +212,7 @@ plt.show()
 f1 = (retx - mu).dot(v[:,0:1])
 ~~~
 
-![f1_Figure_1](D:\研一下\data mining\作业\作业4\f1_Figure_1.png)
+![f1_Figure_1](https://github.com/HenaChris/-/blob/master/f1_Figure_1.png?raw=true)
 
 <center> 图6  第一主成分得分
 
@@ -235,7 +235,7 @@ output:
 f2 = (retx - mu).dot(v[:,1:2])
 ~~~
 
-![f2_Figure_1](D:\研一下\data mining\作业\作业4\f2_Figure_1.png)
+![f2_Figure_1](https://github.com/HenaChris/-/blob/master/f2_Figure_1.png?raw=true)
 
 <center> 图7 第二主成分得分
 
