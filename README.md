@@ -19,5 +19,6 @@
 + 参考链接1：https://blog.csdn.net/google19890102/article/details/53284285
 + 参考链接2：https://github.com/zacharski/pg2dm-python/tree/master/ch8
 
-**4.基于主成分分析的手写数字识别**
-+ 任务：
+**4.基于主成分分析的hs300股票收益率分析**
++ 任务：分析2010年-2015年沪深300的股票收益率
+
