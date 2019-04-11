@@ -1,8 +1,3 @@
-## 第四次作业 
-
-何娜     2018211555
-
-[TOC]
 
 #### 1.数据预处理
 
@@ -11,7 +6,7 @@
 ## stock return data
 
 import numpy as np
-import pandas as pd#dataframe panda要求每一列的数据类型要一样，可以取列名
+import pandas as pd
 from pandas.plotting import scatter_matrix
 import matplotlib.pyplot as plt
 import os
