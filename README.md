@@ -25,4 +25,4 @@
 
 **5.子集选择方法&hs300指数追踪**
 + 任务：利用子集选择的方法进行回归系数的估计
-+ 代码：
++ 代码：https://github.com/HenaChris/ML-DM/blob/master/7_subselection.ipynb
