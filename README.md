@@ -26,3 +26,9 @@
 **5.子集选择方法&hs300指数追踪**
 + 任务：利用子集选择的方法进行回归系数的估计
 + 代码：https://github.com/HenaChris/ML-DM/blob/master/7_subselection.ipynb
+
+**6.决策树与逻辑回归预测流失客户**
++ 任务： 计算iv,画决策树，逻辑回归，画roc曲线，预测客户流失概率
++ 代码： https://github.com/HenaChris/ML-DM/blob/master/churn_DT_LR.ipynb
++ 参考链接1：https://github.com/htbeker/Application_score_card/blob/master/appliaction_score_card.py
++ 参考链接2：http://osask.cn/front/ask/view/41942
