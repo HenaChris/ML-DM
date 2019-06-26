@@ -51,4 +51,5 @@
 **10.简单的pyspark的广告曝光量预测**
 + 任务：pyspark的基本操作
 + 代码：https://github.com/HenaChris/ML-DM/blob/master/pyspark_ad.ipynb
-
++ 参考链接: https://blog.csdn.net/anshuai_aw1/article/details/87881079
++ pyspark文档：http://spark.apache.org/docs/latest/api/python/
