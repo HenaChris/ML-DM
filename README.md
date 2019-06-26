@@ -36,3 +36,14 @@
 **7.代码实现核岭回归**
 + 任务： 核岭回归原理及实现
 + 代码：https://github.com/HenaChris/ML-DM/blob/master/%E6%A0%B8%E5%B2%AD%E5%9B%9E%E5%BD%92.ipynb
++ 参考链接：https://wenku.baidu.com/view/40bf3bcd172ded630b1cb69a.html
+
+**8.天池新人赛**
++任务：预测幸福感，决策树画树，pyechart的用法，卡方的计算
++代码: https://github.com/HenaChris/ML-DM/blob/master/happiness_pred.ipynb
++大赛链接：https://tianchi.aliyun.com/competition/entrance/231702/introduction?spm=5176.12281973.1005.2.3dd54c2aehav54
+
+
+***9.住房租金预测*
++任务：预测租金，lgb算法
++代码：https://github.com/HenaChris/ML-DM/blob/master/LightGBM_model.ipynb
