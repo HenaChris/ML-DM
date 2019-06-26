@@ -47,3 +47,8 @@
 **9.住房租金预测**
 + 任务：预测租金，lgb算法
 + 代码：https://github.com/HenaChris/ML-DM/blob/master/LightGBM_model.ipynb
+
+**10.简单的pyspark的广告曝光量预测**
++ 任务：pyspark的基本操作
++ 代码：https://github.com/HenaChris/ML-DM/blob/master/pyspark_ad.ipynb
+
