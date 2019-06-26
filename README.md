@@ -32,3 +32,7 @@
 + 代码： https://github.com/HenaChris/ML-DM/blob/master/churn_DT_LR.ipynb
 + 参考链接1：https://github.com/htbeker/Application_score_card/blob/master/appliaction_score_card.py
 + 参考链接2：http://osask.cn/front/ask/view/41942
+
+**7.代码实现核岭回归**
++ 任务： 核岭回归原理及实现
++ 代码：https://github.com/HenaChris/ML-DM/blob/master/%E6%A0%B8%E5%B2%AD%E5%9B%9E%E5%BD%92.ipynb
