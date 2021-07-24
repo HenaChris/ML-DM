@@ -56,5 +56,5 @@
 
 **11.kaggle-  多层lstm预测苹果股价
 + 任务：lstm的运用
-+ 代码：
++ 代码：https://github.com/HenaChris/ML-DM/blob/master/app-lstm-20210724.ipynb
 + 参考链接：https://www.kaggle.com/suyashlakhani/stock-price-prediction-and-forecasting-lstm?rvi=1
