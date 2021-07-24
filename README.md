@@ -53,3 +53,8 @@
 + 代码：https://github.com/HenaChris/ML-DM/blob/master/pyspark_ad.ipynb
 + 参考链接: https://blog.csdn.net/anshuai_aw1/article/details/87881079
 + pyspark文档：http://spark.apache.org/docs/latest/api/python/
+
+**11.kaggle-  多层lstm预测苹果股价
++ 任务：lstm的运用
++ 代码：
++ 参考链接：https://www.kaggle.com/suyashlakhani/stock-price-prediction-and-forecasting-lstm?rvi=1
