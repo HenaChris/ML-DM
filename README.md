@@ -58,3 +58,13 @@
 + 任务：lstm的运用
 + 代码：https://github.com/HenaChris/ML-DM/blob/master/app-lstm-20210724.ipynb
 + 参考链接：https://www.kaggle.com/suyashlakhani/stock-price-prediction-and-forecasting-lstm?rvi=1
+
+
+**12.kaggle-doc2vec结合lstm邮件分类**
++ 任务：doc2vec embedding
++ 代码：
++ 参考链接：https://keras-cn-docs.readthedocs.io/zh_CN/latest/blog/word_embedding/ ；https://cloud.tencent.com/developer/article/1373796 ； https://www.kaggle.com/khotijahs1/using-lstm-for-nlp-text-classification
+
+
+
+
